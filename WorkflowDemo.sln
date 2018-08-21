@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkflowDemo", "WorkflowDemo\WorkflowDemo.csproj", "{95C227E9-0B04-4517-8D66-EBCEA5D7F6A9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95C227E9-0B04-4517-8D66-EBCEA5D7F6A9}.Debug|x86.ActiveCfg = Debug|x86
+		{95C227E9-0B04-4517-8D66-EBCEA5D7F6A9}.Debug|x86.Build.0 = Debug|x86
+		{95C227E9-0B04-4517-8D66-EBCEA5D7F6A9}.Release|x86.ActiveCfg = Release|x86
+		{95C227E9-0B04-4517-8D66-EBCEA5D7F6A9}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D6E562CE-CDB5-4A5C-9243-9116BF561A1A}
+	EndGlobalSection
+EndGlobal
